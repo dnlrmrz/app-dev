@@ -7,8 +7,11 @@
 | Movie| Trilogy |
 | Peter Parker | Spider-Man |
 
+
+```
 {
   "firstName": "Peter",
   "lastName": "Parker",
   "age": 17
 }
+``` 
